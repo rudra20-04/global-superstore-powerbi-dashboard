@@ -147,4 +147,4 @@ global-superstore-powerbi-performance-dashboard
 
 Rudra Patel
 
-Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
+Data Analysis | Python | SQL | Power BI | Data Visualization
