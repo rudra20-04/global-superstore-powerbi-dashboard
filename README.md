@@ -1,10 +1,20 @@
-# Global Superstore Data Analytics Project
+# Global Superstore Sales Analytics Dashboard | Python & Power BI
 
 ## Project Overview
 
 This project analyzes the Global Superstore dataset using Python, Pandas, Jupyter Notebook, and Power BI. The objective is to uncover business insights related to sales performance, profitability, customer behavior, product performance, and regional trends.
 
 The project follows a complete data analytics workflow, starting from data exploration and cleaning in Python to building an interactive business intelligence dashboard in Power BI.
+
+---
+
+## Project Highlights
+
+- Analyzed 50,000+ retail transactions from the Global Superstore dataset.
+- Performed data cleaning and exploratory data analysis using Python and Pandas.
+- Built interactive Power BI dashboards with KPI tracking and business insights.
+- Created DAX measures for advanced business metrics.
+- Identified sales, profit, customer, product, and regional performance trends.
 
 ---
 
@@ -80,13 +90,24 @@ Developed an interactive Power BI dashboard featuring:
 
 ---
 
+## Dashboard KPIs
+
+|     Metric     |   Value  |        
+|----------------|----------|
+| Total Sales    | $12.64M  |
+| Total Profit   | $1.47M   |
+| Total Orders   | 25K+     |
+| Total Customers| 4.8K+    |
+| Profit Margin  | 11.6%    |
+
 ## Key Insights
 
-* Technology category generated the highest revenue.
-* Consumer segment contributed the largest share of sales.
-* Revenue showed consistent growth over the analyzed period.
-* A small group of products contributed significantly to total revenue.
-* Overall profit margin remained approximately 11.6%.
+- Technology generated the highest revenue and profit among all categories.
+- Consumer Segment contributed the largest share of total sales.
+- Revenue increased consistently from 2011 to 2014, indicating strong business growth.
+- Furniture generated significant revenue but lower profitability compared to Technology.
+- The United States was the largest contributor to overall sales.
+- Overall profit margin remained approximately 11.6%.
 
 ---
 
@@ -114,9 +135,9 @@ global-superstore-powerbi-performance-dashboard
 
 ## Dashboard Preview
 
-```markdown
-![Dashboard Preview](Dashboard_preview.png)
-```
+
+![Dashboard Preview](reports/Dashboard_preview.png)
+
 
 ---
 
@@ -143,8 +164,15 @@ global-superstore-powerbi-performance-dashboard
 
 ---
 
+## Project Outcome
+
+Successfully developed an end-to-end business intelligence solution by combining Python-based exploratory data analysis with Power BI dashboarding. The project demonstrates the ability to clean, analyze, visualize, and communicate business insights using industry-standard analytics tools.
+
+---
 ## Author
 
 Rudra Patel
 
 Data Analysis | Python | SQL | Power BI | Data Visualization
+
+GitHub: [www.github.com/rudra20-04]
