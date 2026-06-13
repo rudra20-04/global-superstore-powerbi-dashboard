@@ -92,7 +92,8 @@ Developed an interactive Power BI dashboard featuring:
 
 ## Repository Structure
 
-ecommerce-dashboard
+```text
+global-superstore-powerbi-performance-dashboard
 │
 ├── data/
 │   └── Global_Superstore.csv
@@ -109,8 +110,7 @@ ecommerce-dashboard
 ├── requirements.txt
 │
 └── README.md
-
----
+```
 
 ## Dashboard Preview
 
